@@ -1,5 +1,5 @@
-# StylizedFirefox
- Watefall Firefox CSS with Catppuccin colorscheme. 
+# Stylized Firefox
+ Waterfall Firefox CSS with Catppuccin colorscheme. 
 
 ![desktop image](Images/1.png)
 ![desktop image](Images/2.png)
@@ -14,7 +14,7 @@ Firefox CSS
   * >layers.acceleration.force-enabled
   * >gfx.webrender.all
   * >svg.context-properties.content.enabled
-* Copy the *userChrome.css* file from this repo and place it into your chrome folder. The location of the folder can be found here:
+* Copy the *userChrome.css* and *userContent.css* files from this repo and place it into your chrome folder. The location of the folder can be found here:
   * **Windows**: 
     * C:\Users\[USERNAME]\AppData\Roaming\Mozilla\Firefox\Profiles\######.default-release\chrome\
   * **MacOS**:
@@ -24,11 +24,11 @@ Firefox CSS
   * If there isn't a folder called chrome, create it.
 
 # Sources 
- For the original Startpage [click here](https://github.com/zombieFox/voltTab)
+ For the original Startpage: [Click here](https://github.com/zombieFox/voltTab)
 
- Startpage wallpaper [click here](https://www.artstation.com/artwork/PmrKL4)
+ Startpage wallpaper: [Click here](https://www.artstation.com/artwork/PmrKL4)
 
- More info on the color palette [click here](https://github.com/catppuccin/catppuccin)
+ More info on the color palette: [Click here](https://github.com/catppuccin/catppuccin)
 
 
 # Credits
@@ -41,5 +41,7 @@ Firefox CSS
 [@andreasgrafen](https://github.com/andreasgrafen) Original cascade css.
 
 [Denis Istomin](https://www.artstation.com/istomin_denis) Wallpaper Artist
-# Licence
-Mit
+
+Andreas Grafen
+# License
+See [LICENSE](LICENSE)
