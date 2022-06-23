@@ -42,6 +42,5 @@ Firefox CSS
 
 [Denis Istomin](https://www.artstation.com/istomin_denis) Wallpaper Artist
 
-Andreas Grafen
 # License
 See [LICENSE](LICENSE)
